@@ -1,7 +1,10 @@
 # Lume Hotel – Luxury Hotel Website
 A clean, minimal, and responsive hotel landing page built with **React** and **Tailwind CSS**. Designed for luxury hospitality, this site features a dynamic navigation bar, image carousel, room listings, and elegant UI components.
 
-🎯 **Live Demo**: (https://sample-hotelwebsite.vercel.app/)
+🎯 **Live Demo**: (https://sample-hotelwebsite.vercel.app/) some deployment errors here 
+
+**Live Demo video is here** (https://drive.google.com/file/d/1ddgIjTZ1UrHQJ3u7PrWG5ewTnSCffgLf/view?usp=sharing)
+
 
 ---
 
