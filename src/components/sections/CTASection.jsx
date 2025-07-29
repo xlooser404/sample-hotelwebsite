@@ -19,7 +19,7 @@ export default function CTASection() {
           Reserve your stay at Lume Hotel and experience the perfect balance of nature and comfort.
         </p>
         <Link
-          to="/booking"
+          to="/rooms"
           className="inline-block px-10 py-4 bg-gray-900 hover:bg-white hover:text-gray-900 text-white font-light transition-all duration-300"
         >
           Book Now
