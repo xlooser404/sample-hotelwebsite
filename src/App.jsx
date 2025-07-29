@@ -5,12 +5,15 @@ import Rooms from './pages/Rooms';
 import RoomDetailPage from './pages/RoomDetailPage';
 import About from './pages/About';
 import Contact from './pages/Contact';
+import Loader from './components/Loader';
 
 
 function App() {
   return (
+    
     <Router>
       <Layout>
+        <Loader /> {/* This will show first */}
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/rooms" element={<Rooms />} />
